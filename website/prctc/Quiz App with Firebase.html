@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz App</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://www.gstatic.com/firebasejs/8.1.1/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.1.1/firebase-database.js"></script>
+    <script>
+        // Your web app's Firebase configuration
+        // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+        var firebaseConfig = {
+          apiKey: "AIzaSyDs9SUunH2rww4i6GdmgtRL93riOdFCoF8",
+          authDomain: "practice-3d4ed.firebaseapp.com",
+          databaseURL: "https://practice-3d4ed.firebaseio.com",
+          projectId: "practice-3d4ed",
+          storageBucket: "practice-3d4ed.appspot.com",
+          messagingSenderId: "638554456676",
+          appId: "1:638554456676:web:d8cd085866802c6ecc1571",
+          measurementId: "G-JG32E4JJS5"
+        };
+        // Initialize Firebase
+        firebase.initializeApp(firebaseConfig);
+        //firebase.analytics();
+        //practice-3d4ed: //it is the root of database  
+      </script>
+
+</head>
+<body  onload="getData();">
+    
+    <div id="main"> 
+        
+        <h1 id="app">Quiz App</h1>
+        <h2 id="score"> Score = 0 </h2>
+        <p id="quest"></p>
+        <p class="ans" onclick="selOpt(0)"></p>
+        <p class="ans" onclick="selOpt(1)"></p>
+        <p class="ans" onclick="selOpt(2)"></p>
+        <p class="ans" onclick="selOpt(3)"></p>
+        <input type="button" id="nextBtn" onclick="nextQuest()" value="Next">
+
+    </div>
+
+<script src="appFirebase.js"></script>
+</body>
+</html>

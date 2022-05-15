@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0ea8ba1b.chunk.css",
+    "main.js": "/static/js/main.3cee6065.chunk.js",
+    "main.js.map": "/static/js/main.3cee6065.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.04305fe2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.04305fe2.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.8e482bd4.chunk.js": "/static/js/2.8e482bd4.chunk.js",
+    "static/js/2.8e482bd4.chunk.js.map": "/static/js/2.8e482bd4.chunk.js.map",
+    "static/js/3.b3fd4453.chunk.js": "/static/js/3.b3fd4453.chunk.js",
+    "static/js/3.b3fd4453.chunk.js.map": "/static/js/3.b3fd4453.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.0ea8ba1b.chunk.css.map": "/static/css/main.0ea8ba1b.chunk.css.map",
+    "static/js/2.8e482bd4.chunk.js.LICENSE.txt": "/static/js/2.8e482bd4.chunk.js.LICENSE.txt",
+    "static/media/IMG-20201211-WA0016.45e7245a.jpg": "/static/media/IMG-20201211-WA0016.45e7245a.jpg",
+    "static/media/IMG-20201211-WA0017.57e147f1.jpg": "/static/media/IMG-20201211-WA0017.57e147f1.jpg",
+    "static/media/IMG-20201211-WA0018.617b196a.jpg": "/static/media/IMG-20201211-WA0018.617b196a.jpg",
+    "static/media/IMG-20201211-WA0019.e646ac53.jpg": "/static/media/IMG-20201211-WA0019.e646ac53.jpg",
+    "static/media/IMG-20201211-WA0020.90fb09d6.jpg": "/static/media/IMG-20201211-WA0020.90fb09d6.jpg",
+    "static/media/IMG-20201211-WA0021.c82d51bc.jpg": "/static/media/IMG-20201211-WA0021.c82d51bc.jpg",
+    "static/media/IMG-20201211-WA0022.fc8aafa0.jpg": "/static/media/IMG-20201211-WA0022.fc8aafa0.jpg",
+    "static/media/IMG-20201211-WA0023.c466e976.jpg": "/static/media/IMG-20201211-WA0023.c466e976.jpg",
+    "static/media/IMG-20201211-WA0024.68dae62f.jpg": "/static/media/IMG-20201211-WA0024.68dae62f.jpg",
+    "static/media/IMG-20201211-WA0025.3bde0bd1.jpg": "/static/media/IMG-20201211-WA0025.3bde0bd1.jpg",
+    "static/media/IMG-20201211-WA0026.9c34309a.jpg": "/static/media/IMG-20201211-WA0026.9c34309a.jpg",
+    "static/media/IMG-20201211-WA0027.589ee8d9.jpg": "/static/media/IMG-20201211-WA0027.589ee8d9.jpg",
+    "static/media/IMG-20201211-WA0028.b33e2670.jpg": "/static/media/IMG-20201211-WA0028.b33e2670.jpg",
+    "static/media/RSN fb cover-4-01.21ebdba2.jpg": "/static/media/RSN fb cover-4-01.21ebdba2.jpg",
+    "static/media/Simple Web Cover 3.8ee9e312.jpg": "/static/media/Simple Web Cover 3.8ee9e312.jpg",
+    "static/media/fb post XRD.42d24738.jpg": "/static/media/fb post XRD.42d24738.jpg",
+    "static/media/logo XRD.2002b6cf.jpg": "/static/media/logo XRD.2002b6cf.jpg",
+    "static/media/rns asim logo.838ff47e.jpg": "/static/media/rns asim logo.838ff47e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.04305fe2.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.8e482bd4.chunk.js",
+    "static/css/main.0ea8ba1b.chunk.css",
+    "static/js/main.3cee6065.chunk.js"
+  ]
+}

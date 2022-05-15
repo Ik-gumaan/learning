@@ -1,0 +1,201 @@
+/* stopwatch */
+#hour,#min,#sec{
+    background-color:black;
+    width:100px;
+    display:inline-block;
+    color:white;
+    text-align:center
+}
+
+button{
+    width:100px;
+    height:50px;
+    text-align:center;
+    font-weight:bold;
+}
+
+/*quiz App */
+
+#main{
+    width:500px;
+    background-color: indianred;
+    padding: 50px;
+    border:2px solid black;
+    border-radius: 20px;
+    margin: auto;
+
+}
+
+#app{
+    color: darkred;
+    background-color: white;
+    width:200px;
+    padding: 10px;
+    border-radius: 30px;
+    text-align: center;
+    margin: auto;
+    border: 1px solid black;
+}
+
+#score{
+text-align: right;
+color: white;
+}
+
+#quest{
+    background-color:white;
+    color:black;
+    padding: 10px;
+    font-weight: bold;
+    border-radius: 5px;
+    border: 1px solid black;
+    margin-bottom: 10px;
+}
+
+p.ans{
+    width: 47%;
+    display: inline-block;
+    background-color: white;
+    padding: 5px;
+    border:1px solid white;
+    border-radius: 15px;
+    margin-bottom: 5px;
+    border: 1px solid black;
+}
+
+
+p.active,p.ans:hover{
+    background-color: brown;
+    color:white;
+    font-weight: bold;
+}
+
+#nextBtn{
+    margin-top: 10px;
+    width:70px;
+    padding:7px;
+    font-weight: bolder;
+    border:none;
+    border-radius: 5px;
+    background-color: white;
+}
+
+
+#nextBtn:hover,#nextBtn:active{
+    background-color:darkred;
+    color:white;
+    border: none;
+}
+
+#fS{
+    text-align: center;
+}
+
+#PA{
+    text-align: center;
+    margin-top: 10px;
+    width:500px;
+    padding:10px;
+    font-weight: bolder;
+    border-radius: 25px;
+    background-color: white;
+    border: none;
+}
+
+#PA:hover{
+    background-color:darkred;
+    color:white;
+    border: none;
+}
+
+
+///////////////////////
+div.nav{
+    background-color: goldenrod;
+    font-size: large;
+
+}
+div.nav ul li{
+    padding: 10px;
+    display: inline-block;
+}
+
+div.nav ul li a{
+text-decoration: none;
+color: white;
+}
+
+div.nav ul li:hover{
+background-color: chocolate;
+}
+
+
+div.nav div{
+display: inline;
+position: absolute;
+right: 20px;
+top: 25px;
+}
+
+div.nav div input{
+padding: 5px;    
+border-radius: 5px;
+border: none;
+}
+
+div.nav div input[type=search]:focus{
+    background-color: lightgoldenrodyellow;
+   }
+
+div.nav div input[type=button]{
+    background-color: peru;}
+        
+    div.nav div input[type=button]:hover{
+        background-color: chocolate;}
+            
+
+
+form.login{
+width: 500px;
+margin: auto;
+font-size: large;
+}
+
+form.login fieldset legend{
+    text-align: center;
+
+    background-color: goldenrod;
+color: white;
+padding: 10px;
+border-radius: 5px;
+}
+
+form.login fieldset{
+    background-color: lightgoldenrodyellow;
+}
+
+form.login div label{
+color: goldenrod;
+}
+
+form.login div input{
+margin-top: 15px;
+    padding: 5px;
+    border-radius: 5px;
+    border:1px solid goldenrod;
+     }
+
+form.login div input[type=button]{
+    color: white;
+    margin-top: 15px;
+        padding: 10px;
+        background-color:peru;
+        border-radius: 5px;
+    border: none;
+    }
+       
+    form.login div input[type=button]:hover{
+        margin-top: 15px;
+            padding: 10px;
+            background-color:chocolate;
+        }
